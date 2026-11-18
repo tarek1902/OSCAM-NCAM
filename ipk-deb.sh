@@ -1,7 +1,7 @@
 #!/bin/sh
 set -e
 
-BASE="https://raw.githubusercontent.com/tarekzoka/TiviMateE2/refs/heads/main"
+BASE="https://raw.githubusercontent.com/tarek1902/OSCAM-NCAM/refs/heads/main"
 IPK="oscam-11989-emu-802.ipk"
 DEB="oscam-11989-emu-802.deb"
 
