@@ -14,7 +14,7 @@ else
     install_command="opkg install --force-reinstall"
     uninstall_command="opkg remove --force-depends"
 fi
-url="https://gitlab.com/hanfy1971/softcam/-/raw/main/mohamed-os/$ipk"
+url="https://raw.githubusercontent.com/tarek1902/OSCAM-NCAM/refs/heads/main/$ipk"
 temp_dir="/tmp"
 
 # Determine package manager
